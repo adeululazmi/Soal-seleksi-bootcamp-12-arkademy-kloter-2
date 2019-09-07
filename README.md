@@ -1,1 +1,2 @@
-# Soal-seleksi-bootcamp-12-arkademy-kloter-2 (Ade ulul azmi)
+# Soal-seleksi-bootcamp-12-arkademy-kloter-2 
+(Ade ulul azmi)
