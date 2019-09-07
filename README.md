@@ -5,4 +5,6 @@ keterangan :
 
 #soal no 2 : validasi menggunakan regex
 
-#soal no 3 : di buat menggunakan dev-c++ di windows
+#soal no 3 : di buat menggunakan dev-C++ di windows
+
+#soal no 5 : di buat menggunakan dev-C++ di windows
